@@ -180,6 +180,7 @@ def user_stats(df):
     print('-'*40)
 
 def view_data(df):
+"""Displays first 5 lines of the filtered data and continues displaying next 5 lines and so on based on user input."""
     view = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n').lower()
     start_loc = 0
     while view == 'yes' or view.lower() =='y':
