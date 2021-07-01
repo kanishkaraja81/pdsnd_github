@@ -7,10 +7,13 @@ This file was created on 1 July 2021.
 This project analyses bike-sharing data in 3 cities in US.
 
 ### Description
-Describe what your project is about and what it does
+The project analyses aspects of bike sharing data for 6 months across 3 cities (Chicago, New York City and Washington). It looks at most popular times for bike sharing, the most popular pick up and drop off stations as well as key customer related statistics.
 
 ### Files used
-Include the files used
+bikeshare.py
+Chicago.csv
+New York City.csv
+Washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
