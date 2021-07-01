@@ -16,4 +16,4 @@ New York City.csv
 Washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The project was completed by Kanishka as a part of the Udacity nanodegree course on Programming in Python.
